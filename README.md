@@ -74,17 +74,6 @@ Los archivos presentados están referenciados en Google Colab para poder generar
 | celda                     | String  | Identificador único de celda espacial (lat\_lon concatenado).        |
 
 
-## Resultados y Métricas
-
-Aquí se reportarán los principales resultados y métricas de desempeño (RMSE, MAE, R², etc.) de cada modelo.  
-Ejemplo:
-
-| Modelo         | Validación        | RMSE       | MAE        | R²        |
-|----------------|------------------|------------|------------|-----------|
-| Random Forest  | Cross-Validation | 398,732.62 | ...        | ...       |
-| Elastic Net    | Cross-Validation | ...        | ...        | ...       |
-| SuperLearner   | Cross-Validation | ...        | ...        | ...       |
-
 ## Autores
 
 - Sara Rocio Rojas Goméz
