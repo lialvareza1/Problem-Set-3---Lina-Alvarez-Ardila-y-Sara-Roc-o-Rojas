@@ -1,7 +1,7 @@
 # Problem-Set-3---Lina-Alvarez-Ardila-y-Sara-Roc-o-Rojas
 Universidad de Los Andes - Big Data y Machine Learning - Lina Maria Alvarez y Sara Rocío Rojas
 
-Los archivos presentados están referenciados en Google Colab para poder generar un codigo reproducible y público.
+Los archivos presentados están referenciados en html, descargalos para poder generar un codigo reproducible y público.
 
 ## Archivos principales
 
