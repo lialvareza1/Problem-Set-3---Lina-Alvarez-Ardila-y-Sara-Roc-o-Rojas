@@ -12,25 +12,13 @@ Los archivos presentados están referenciados en Google Colab para poder generar
 - Notebook 5: Modelo de Redes Neuronales Simples.
 - Notebook 6: Modelo ganador de Random Forest
 
-## Cómo ejecutar los notebooks
+## Cargar los datos 
 
-1. **Abrir en Google Colab**
-   - Haz clic en el notebook deseado desde el repositorio (o cópialo a tu Google Drive).
-
-2. **Instalar los paquetes necesarios**
-   - En caso de que no se haya logrado instalar un paquete con el codigo base. En la primera celda instala los paquetes requeridos. Si alguno falta, agrégalo con `install.packages("nombre")`.
-
-3. **Cargar los datos**
-   - Descarga los datos desde los enlaces proporcionados abajo y súbelos a Colab, o usa las URLs en el código para cargarlos directamente.
-   - Ejemplo:
      ```r
      test <- read_csv("https://www.dropbox.com/scl/fi/seif0x3qoy95gh0s2nw0u/test.csv?rlkey=lqzviqjqxwatlt708bzoezsnc&st=csqy50ti&dl=1")
      train <- read_csv("https://www.dropbox.com/scl/fi/pnw43edk4uewsd13g1oxj/train.csv?rlkey=vxuc9vej4ruom9dg0y5b2zh0c&st=1zp7ez1e&dl=1")
 
      ```
-
-4. **Ejecutar el notebook**
-   - Sigue las celdas en orden para replicar los resultados.
 
 ## Especificación de las variables
 
