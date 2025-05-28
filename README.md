@@ -5,11 +5,12 @@ Los archivos presentados están referenciados en Google Colab para poder generar
 
 ## Archivos principales
 
-- Notebook 1: Ensamblaje entre un Logit y un Cart.
-- Notebook 2: Elastic Net.
-- Notebook 3: XGBoost.
-- Notebook 4: Redes neuronales. 
-- Notebook 5: Nuestro ganador Random Forest. 
+- Notebook 1: Estadísticas descriptivas.
+- Notebook 2: Stacking y validación cruzada con Random Forest
+- Notebook 3: Stacking Logit y CART.
+- Notebook 4: Stacking con Super Learner Manual y Validación Cruzada Espacial. 
+- Notebook 5: Modelo de Redes Neuronales Simples.
+- Notebook 6: Modelo ganador de Random Forest
 
 ## Cómo ejecutar los notebooks
 
